@@ -2,16 +2,11 @@
 
 ## Table of Contents
 
-* [Installation](#installation)
 * [Rules](#rules)
 * [Instructions](#instructions)
 * [How does the game run ?](#How-does-the-game-run-?)
 * [Customize the game](#customize-the-game)
 * [Thanks](#thanks)
-
-## Installation
-
-Browse the folder and open the index.html file
 
 ## Rules
 * Join the river and make the best score as possible, avoiding enemies walking across the screen.
@@ -38,6 +33,3 @@ enemy3.speed = 500;
 let enemy4 = new Enemy();  
 enemy4.speed = 400;`  
 * Change `enemy.speed`to modify the enemies' speed ! 
-
-### thanks
-[Udacity Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
