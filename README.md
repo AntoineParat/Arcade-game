@@ -1,5 +1,7 @@
 # Classic arcade game revisited
 
+![enter image description here](https://www.antoineparat.com/img/arcade.png)
+
 ## Table of Contents
 
 * [Rules](#rules)
