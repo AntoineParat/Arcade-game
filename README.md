@@ -8,7 +8,6 @@
 * [Instructions](#instructions)
 * [How does the game run ?](#How-does-the-game-run-?)
 * [Customize the game](#customize-the-game)
-* [Thanks](#thanks)
 
 ## Rules
 * Join the river and make the best score as possible, avoiding enemies walking across the screen.
